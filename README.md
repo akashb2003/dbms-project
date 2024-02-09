@@ -67,4 +67,15 @@ npm start
 - Backend - NodeJS, ExpressJS
 - Database - MySql
 
+# Screenshots
+
+![tenant](https://github.com/akashb2003/dbms-project/assets/103527635/a1754d8e-6075-4bd2-8138-f021ae3daa62)
+![schema](https://github.com/akashb2003/dbms-project/assets/103527635/15868921-c299-4dcb-a9c6-3ec6a948694d)
+![owner](https://github.com/akashb2003/dbms-project/assets/103527635/7c1f51a7-8a2d-4ef5-ace4-5d2bd1f3816f)
+![login](https://github.com/akashb2003/dbms-project/assets/103527635/70fa76fe-ac4c-453b-8565-31b64560071e)
+![er-diagram](https://github.com/akashb2003/dbms-project/assets/103527635/3d263478-995e-43ff-b64b-f87ba86d0600)
+![employee](https://github.com/akashb2003/dbms-project/assets/103527635/e89a9281-34b1-446f-86dc-70896a089606)
+![admin](https://github.com/akashb2003/dbms-project/assets/103527635/9d393103-aa71-4dfc-b590-954fee858e27)
+
+
 `Thank you!🧑‍💻`
