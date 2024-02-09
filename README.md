@@ -67,6 +67,11 @@ npm start
 - Backend - NodeJS, ExpressJS
 - Database - MySql
 
+# Login Credentials 
+
+![image](https://github.com/akashb2003/dbms-project/assets/103527635/08b69c28-fdb7-4fee-95c5-7ab11d993486)
+
+
 # Screenshots
 
 ![tenant](https://github.com/akashb2003/dbms-project/assets/103527635/a1754d8e-6075-4bd2-8138-f021ae3daa62)
